@@ -1,4 +1,7 @@
-### Hi there, my name it's <a href="https://ivanrf.netlify.app/">Iván Rodríguez</a> ![ForrestGumpHelloGIF](https://github.com/areantbd/areantbd/assets/82571096/44269c89-ece5-4e63-82ae-f42c60dd1fbe)
+### Hi there, my name it's <a href="https://ivanrf.netlify.app/">Iván Rodríguez</a> 👨‍💻 
+![HelloBearGIF](https://github.com/areantbd/areantbd/assets/82571096/e00c9f1e-56c7-458f-b5ec-68e91614afc8)
+
+
 
 
 ```js
@@ -23,6 +26,9 @@ const user = {
 
 }
 ```
+You can find me 🌍:
+- [LinkedIn](https://www.linkedin.com/in/ivanwebdev/)
+- [Codewars](https://www.codewars.com/users/Ivan180687)
 <!--
 **areantbd/areantbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
