@@ -5,7 +5,6 @@
 
 ![HelloBearGIF](https://github.com/areantbd/areantbd/assets/82571096/cbfb5df0-d66d-4ac9-abdc-4dc5fe155f18)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=areantbd&label=Profile%20views&color=0e75b6&style=flat" alt="areantbd" /> </p>
 
 - 🔭Actualmente estoy trabajando en una [aplicación del tiempo](https://miappdeltiempo.netlify.app/)
 
@@ -28,5 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areantbd&show_icons=true&locale=en&layout=compact" alt="areantbd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areantbd&theme=nord&show_icons=true&locale=en" alt="areantbd" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=areantbd&label=Profile%20views&color=0e75b6&style=flat" alt="areantbd" /> </p>
 
 
