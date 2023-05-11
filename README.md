@@ -2,9 +2,9 @@
 
 <h3 align="center">Desarrollador front-end junior.</h3>
 
-![HelloBearGIF](https://github.com/areantbd/areantbd/assets/82571096/cbfb5df0-d66d-4ac9-abdc-4dc5fe155f18)
-
 ## 👨‍💻 Sobre mi:
+
+<img align="right" alt="GIF" src="https://github.com/areantbd/areantbd/assets/82571096/cbfb5df0-d66d-4ac9-abdc-4dc5fe155f18" />
 
 - 📍 Vivo en Vigo, Galicia.
 - 🤿 Me encanta practicar submarinismo.
