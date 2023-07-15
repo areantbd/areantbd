@@ -11,7 +11,7 @@
 
 - 🔭 Actualmente estoy trabajando en una [aplicación del tiempo](https://miappdeltiempo.netlify.app/)
 
-- 🌱 Estoy aprendiendo sobre **TypeScript, React Native y testing**
+- 🌱 Estoy aprendiendo sobre **TypeScript y Angular**
 
 - 📄 Aquí puedes ver y descargar mi [CV](https://drive.google.com/file/d/1HbKfcokbqLTjpUiVCqBqK64N51CCjA-z/view?usp=sharing)
 -  👇 Si quieres contactar conmigo o ver mis proyectos terminados.
