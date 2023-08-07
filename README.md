@@ -9,7 +9,7 @@
 - 📍 Vivo en Vigo, Galicia.
 - 🤿 Me encanta practicar submarinismo.
 
-- 🔭 Actualmente estoy trabajando en una [aplicación del tiempo](https://miappdeltiempo.netlify.app/)
+- 🔭 Actualmente estoy trabajando en una [aplicación del tiempo](https://aplicaciones-curso-angular.netlify.app/)
 
 - 🌱 Estoy aprendiendo sobre **TypeScript y Angular**
 
@@ -69,6 +69,10 @@
 <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" /></p>
 
 ## 😎 Proyectos terminados
+
+- [Mi App del tiempo](https://miappdeltiempo.netlify.app/) -- [GitHub](https://github.com/areantbd/weatherApp-el-tiempo-API)
+
+  Aplicación del tiempo creada con React y usando el API de el tiempo.net.
 
 - [ICash](https://play.google.com/store/apps/details?id=com.guezetatech.prestamos) -- [GitHub](https://github.com/areantbd/cotizador-de-prestamos)
 
