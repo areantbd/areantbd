@@ -11,7 +11,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Enovam](https://enovam.com/)
 
-- 🌱 Estoy aprendiendo sobre **TypeScript y Angular**
+- 🌱 Estoy aprendiendo sobre **TypeScript y Nest**
 
 - 📄 Aquí puedes ver y descargar mi [CV](https://drive.google.com/file/d/1HbKfcokbqLTjpUiVCqBqK64N51CCjA-z/view?usp=sharing)
 -  👇 Si quieres contactar conmigo o ver mis proyectos terminados.
@@ -42,7 +42,8 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></p>
 
 <p>Bases de datos<br>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></p>
 
 <p>Control de versiones<br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -69,6 +70,10 @@
 <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" /></p>
 
 ## 😎 Proyectos terminados
+
+- [Colección ejercicios con Angular](https://aplicaciones-curso-angular.netlify.app/) -- [GitHub](https://github.com/areantbd/Angular_Apps_Curso)
+
+  Aplicación no terminada, donde he reunido todas las aplicaciones que he ido haciendo durante un curso de Angular.
 
 - [Mi App del tiempo](https://miappdeltiempo.netlify.app/) -- [GitHub](https://github.com/areantbd/weatherApp-el-tiempo-API)
 
