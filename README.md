@@ -9,7 +9,7 @@
 - 📍 Vivo en Vigo, Galicia.
 - 🤿 Me encanta practicar submarinismo.
 
-- 🔭 Actualmente estoy trabajando en una [colección de proyectos de Angular](https://aplicaciones-curso-angular.netlify.app/)
+- 🔭 Actualmente estoy trabajando en una [Enovam]([https://enovam.com/])
 
 - 🌱 Estoy aprendiendo sobre **TypeScript y Angular**
 
